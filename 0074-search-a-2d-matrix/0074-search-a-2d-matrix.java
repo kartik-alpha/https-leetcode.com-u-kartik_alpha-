@@ -23,7 +23,7 @@ class Solution {
      /*
         while(s <= e ) {
             int mid = s + (e - s)/2;
-
+                           // USING THIS FROMULA TO  calculate 1d array to 2d array row and column number find out ..
             int row = mid/n;
             int col = mid%n;
 
