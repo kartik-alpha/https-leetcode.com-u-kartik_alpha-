@@ -5,8 +5,22 @@ class Solution {
 
         
         int s = 0;
-        int e = m*n - 1;
+        //int e = m*n - 1;
+        int e = n - 1;
 
+        while( s < m && e >= 0) {
+            if(matrix[s][e] == target) {
+            return true;
+            }else if (matrix[s][e] > target) {
+                e--;
+            } else {
+                s++;
+            }
+
+        }
+
+        return false;
+     /*
         while(s <= e ) {
             int mid = s + (e - s)/2;
 
@@ -25,5 +39,7 @@ class Solution {
 
         return false;
         
+        */
+
     }
 }
