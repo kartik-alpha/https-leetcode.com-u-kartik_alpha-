@@ -37,7 +37,7 @@ class Solution {
 
         int e = sum;
 
-        int ans = e;
+        int ans = 0;
 
         while(s <= e) {
             int mid = s + (e -s)/2;
