@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0540-single-element-in-a-sorted-array) |
+| [0875-koko-eating-bananas](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0875-koko-eating-bananas) |
 | [1552-magnetic-force-between-two-balls](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/1552-magnetic-force-between-two-balls) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2643-row-with-maximum-ones](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/2643-row-with-maximum-ones) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0540-single-element-in-a-sorted-array) |
+| [0875-koko-eating-bananas](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0875-koko-eating-bananas) |
 | [1552-magnetic-force-between-two-balls](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/1552-magnetic-force-between-two-balls) |
 ## Divide and Conquer
 |  |
