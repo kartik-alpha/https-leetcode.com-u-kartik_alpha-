@@ -1,65 +1,73 @@
-import java.util.*;
-
 class Solution {
-    static final long MOD = 1_000_000_007L;
+    static final int MOD = 1_000_000_007;
 
     public int[] sumAndMultiply(String s, int[][] queries) {
-        ArrayList<Integer> pos = new ArrayList<>();
-        ArrayList<Integer> dig = new ArrayList<>();
+        int n = s.length();
+        char[] ch = s.toCharArray();
 
-        for (int i = 0; i < s.length(); i++) {
-            int d = s.charAt(i) - '0';
+        int[] pos = new int[n];
+        int[] dig = new int[n];
+        int cnt = 0;
+
+        for (int i = 0; i < n; i++) {
+            int d = ch[i] - '0';
             if (d != 0) {
-                pos.add(i);
-                dig.add(d);
+                pos[cnt] = i;
+                dig[cnt++] = d;
             }
         }
 
-        int m = dig.size();
-        long[] pre = new long[m + 1];
-        long[] sum = new long[m + 1];
-        long[] pow = new long[m + 1];
+        long[] preVal = new long[cnt + 1];
+        long[] preSum = new long[cnt + 1];
+        long[] pow = new long[cnt + 1];
         pow[0] = 1;
 
-        for (int i = 1; i <= m; i++) {
-            pow[i] = pow[i - 1] * 10 % MOD;
-            pre[i] = (pre[i - 1] * 10 + dig.get(i - 1)) % MOD;
-            sum[i] = sum[i - 1] + dig.get(i - 1);
+        for (int i = 1; i <= cnt; i++) {
+            pow[i] = (pow[i - 1] * 10) % MOD;
+            preVal[i] = (preVal[i - 1] * 10 + dig[i - 1]) % MOD;
+            preSum[i] = preSum[i - 1] + dig[i - 1];
         }
 
         int[] ans = new int[queries.length];
 
         for (int i = 0; i < queries.length; i++) {
-            int l = lower(pos, queries[i][0]);
-            int r = upper(pos, queries[i][1]) - 1;
+            int l = queries[i][0];
+            int r = queries[i][1];
 
-            if (l > r) continue;
+            int L = lower(pos, cnt, l);
+            int R = upper(pos, cnt, r) - 1;
 
-            int len = r - l + 1;
-            long x = (pre[r + 1] - pre[l] * pow[len] % MOD + MOD) % MOD;
-            long sm = sum[r + 1] - sum[l];
+            if (L > R) continue;
 
-            ans[i] = (int) (x * (sm % MOD) % MOD);
+            int len = R - L + 1;
+
+            long x = (preVal[R + 1]
+                    - preVal[L] * pow[len] % MOD
+                    + MOD) % MOD;
+
+            long sum = preSum[R + 1] - preSum[L];
+
+            ans[i] = (int) (x * (sum % MOD) % MOD);
         }
 
         return ans;
     }
 
-    private int lower(ArrayList<Integer> a, int x) {
-        int l = 0, r = a.size();
+    private int lower(int[] a, int n, int x) {
+        int l = 0, r = n;
         while (l < r) {
-            int m = (l + r) / 2;
-            if (a.get(m) >= x) r = m;
+            int m = (l + r) >>> 1;
+            if (a[m] >= x) r = m;
             else l = m + 1;
         }
         return l;
     }
 
-    private int upper(ArrayList<Integer> a, int x) {
-        int l = 0, r = a.size();
+    private int upper(int[] a, int n, int x) {
+        int l = 0, r = n;
         while (l < r) {
-            int m = (l + r) / 2;
-            if (a.get(m) > x) r = m;
+            int m = (l + r) >>> 1;
+            if (a[m] > x) r = m;
             else l = m + 1;
         }
         return l;
