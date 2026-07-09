@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2643-row-with-maximum-ones](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/2643-row-with-maximum-ones) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0875-koko-eating-bananas) |
 | [1552-magnetic-force-between-two-balls](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/1552-magnetic-force-between-two-balls) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0567-permutation-in-string) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -107,4 +110,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+## Union-Find
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Graph Theory
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/3532-path-existence-queries-in-a-graph-i) |
 <!---LeetCode Topics End-->
