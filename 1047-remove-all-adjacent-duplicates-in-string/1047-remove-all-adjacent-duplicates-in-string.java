@@ -9,10 +9,10 @@ class Solution {
       if(ans.length() > 0 && ans.charAt(ans.length() - 1) == ch) {
         ans.deleteCharAt(ans.length() - 1);
       }
-      else {
+      else 
 
         ans.append(ch);
-      }
+      
       }
       return ans.toString();
     }
