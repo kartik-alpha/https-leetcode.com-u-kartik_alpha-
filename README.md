@@ -81,12 +81,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0567-permutation-in-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Stack
 |  |
 | ------- |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
 |  |
