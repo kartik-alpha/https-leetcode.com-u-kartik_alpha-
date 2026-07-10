@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0172-factorial-trailing-zeroes](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0172-factorial-trailing-zeroes) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Hash Table
