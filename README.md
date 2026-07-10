@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2643-row-with-maximum-ones](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/2643-row-with-maximum-ones) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0875-koko-eating-bananas) |
 | [1552-magnetic-force-between-two-balls](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/1552-magnetic-force-between-two-balls) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0509-fibonacci-number) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -59,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0410-split-array-largest-sum) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -69,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1552-magnetic-force-between-two-balls](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/1552-magnetic-force-between-two-balls) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -76,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0151-reverse-words-in-a-string) |
 | [0443-string-compression](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0567-permutation-in-string) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## String
 |  |
 | ------- |
@@ -125,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -133,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0509-fibonacci-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 <!---LeetCode Topics End-->
