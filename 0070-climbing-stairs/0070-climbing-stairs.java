@@ -1,6 +1,19 @@
 class Solution {
     public int climbStairs(int n) {
 
+
+        /*   
+        //base case 
+         if( n <= 2) 
+            return n; 
+            //rr
+            int ans  = climbStairs(n -1 ) + climbStairs(n -2);
+
+            return ans;
+
+
+        */
+
         if( n <= 2) 
             return n;
 
