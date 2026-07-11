@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0509-fibonacci-number) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0172-factorial-trailing-zeroes) |
 | [0509-fibonacci-number](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0509-fibonacci-number) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0509-fibonacci-number) |
 ## Bit Manipulation
 |  |
