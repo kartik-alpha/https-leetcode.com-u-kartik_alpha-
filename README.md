@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0189-rotate-array](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0540-single-element-in-a-sorted-array) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0189-rotate-array) |
 | [0443-string-compression](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0567-permutation-in-string) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0172-factorial-trailing-zeroes) |
+| [0189-rotate-array](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0509-fibonacci-number) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
