@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0875-koko-eating-bananas) |
+| [1331-rank-transform-of-an-array](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/1331-rank-transform-of-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/1552-magnetic-force-between-two-balls) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2018-check-if-word-can-be-placed-in-crossword](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/2018-check-if-word-can-be-placed-in-crossword) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1331-rank-transform-of-an-array](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/1331-rank-transform-of-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/1552-magnetic-force-between-two-balls) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0567-permutation-in-string) |
+| [1331-rank-transform-of-an-array](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/1331-rank-transform-of-an-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Sliding Window
 |  |
