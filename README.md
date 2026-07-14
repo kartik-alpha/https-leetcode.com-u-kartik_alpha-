@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0151-reverse-words-in-a-string) |
 | [0443-string-compression](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0443-string-compression) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0189-rotate-array) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0013-roman-to-integer) |
 | [0567-permutation-in-string](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0567-permutation-in-string) |
 | [1331-rank-transform-of-an-array](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/1331-rank-transform-of-an-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/3532-path-existence-queries-in-a-graph-i) |
