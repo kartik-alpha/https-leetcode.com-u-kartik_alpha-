@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0053-maximum-subarray](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0074-search-a-2d-matrix) |
 | [0152-maximum-product-subarray](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0240-search-a-2d-matrix-ii) |
 | [2018-check-if-word-can-be-placed-in-crossword](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/2018-check-if-word-can-be-placed-in-crossword) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0059-spiral-matrix-ii) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Math
 |  |
