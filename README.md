@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0152-maximum-product-subarray) |
+| [0392-is-subsequence](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0509-fibonacci-number) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0189-rotate-array) |
+| [0392-is-subsequence](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0567-permutation-in-string) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0151-reverse-words-in-a-string) |
+| [0392-is-subsequence](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0567-permutation-in-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
