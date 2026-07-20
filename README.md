@@ -187,4 +187,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0046-permutations](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0046-permutations) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
