@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0074-search-a-2d-matrix) |
 | [0152-maximum-product-subarray](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0152-maximum-product-subarray) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0392-is-subsequence) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0410-split-array-largest-sum) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Prefix Sum
