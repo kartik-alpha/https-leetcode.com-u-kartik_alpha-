@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0014-longest-common-prefix) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0053-maximum-subarray) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0055-jump-game) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0189-rotate-array) |
@@ -123,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0042-trapping-rain-water) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -205,4 +209,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/1757-recyclable-and-low-fat-products) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
