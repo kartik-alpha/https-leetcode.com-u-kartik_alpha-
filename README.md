@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0175-combine-two-tables) |
 | [0180-consecutive-numbers](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0180-consecutive-numbers) |
 | [0584-find-customer-referee](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0595-big-countries) |
