@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0152-maximum-product-subarray](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0078-subsets) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Enumeration
 |  |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0046-permutations](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0078-subsets) |
 ## Database
 |  |
 | ------- |
