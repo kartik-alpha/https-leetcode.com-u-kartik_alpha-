@@ -1,4 +1,51 @@
 class Solution {
+    static void solve(String digits , List<String> ans , int index , StringBuilder output , String[] maping) {
+
+        if(index >= digits.length()) {
+            ans.add(output.toString());
+            return;
+        }
+
+
+        int value = digits.charAt(index) - '0';
+        String mapper  = maping[value];
+
+        for(int i = 0; i < mapper.length();i++) {
+            output.append(mapper.charAt(i));
+
+            solve(digits , ans , index + 1 , output , maping);
+
+            output.deleteCharAt(output.length() - 1);
+        }
+    }
+    
+      public List<String> letterCombinations(String digits) {
+            String[] maping = {
+        "",
+        "",
+        "abc",
+        "def",
+        "ghi",
+        "jkl",
+        "mno",
+        "pqrs",
+        "tuv",
+        "wxyz"
+    };
+
+     List<String>  ans = new ArrayList<>();
+
+     int index = 0;
+
+     StringBuilder output = new StringBuilder();
+
+     solve(digits , ans , index , output , maping);
+
+     return ans;
+
+
+    /*
+
     List<String>  ans = new ArrayList<>();
     String[] map = {
         "",
@@ -37,6 +84,8 @@ class Solution {
 
         solve(digits , 0 , new StringBuilder());
         return ans;
+*/
 
     }
 }
+
