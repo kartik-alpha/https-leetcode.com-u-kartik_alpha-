@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0875-koko-eating-bananas) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0410-split-array-largest-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0560-subarray-sum-equals-k) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sorting
 |  |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0037-sudoku-solver) |
+| [0560-subarray-sum-equals-k](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0567-permutation-in-string) |
 | [1331-rank-transform-of-an-array](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/1331-rank-transform-of-an-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/3532-path-existence-queries-in-a-graph-i) |
