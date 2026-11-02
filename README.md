@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/1331-rank-transform-of-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/1552-magnetic-force-between-two-balls) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [1991-find-the-middle-index-in-array](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/1991-find-the-middle-index-in-array) |
 | [2018-check-if-word-can-be-placed-in-crossword](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/2018-check-if-word-can-be-placed-in-crossword) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2643-row-with-maximum-ones](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/2643-row-with-maximum-ones) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0724-find-pivot-index) |
+| [1991-find-the-middle-index-in-array](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/1991-find-the-middle-index-in-array) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sorting
 |  |
