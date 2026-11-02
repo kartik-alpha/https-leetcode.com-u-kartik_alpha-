@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0875-koko-eating-bananas) |
 | [1331-rank-transform-of-an-array](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/1331-rank-transform-of-an-array) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0410-split-array-largest-sum) |
 | [0523-continuous-subarray-sum](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0724-find-pivot-index) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sorting
 |  |
