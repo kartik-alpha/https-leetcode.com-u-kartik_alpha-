@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0875-koko-eating-bananas) |
+| [1314-matrix-block-sum](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/1314-matrix-block-sum) |
 | [1331-rank-transform-of-an-array](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/1331-rank-transform-of-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/1552-magnetic-force-between-two-balls) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0304-range-sum-query-2d-immutable) |
+| [1314-matrix-block-sum](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/1314-matrix-block-sum) |
 | [2018-check-if-word-can-be-placed-in-crossword](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/2018-check-if-word-can-be-placed-in-crossword) |
 | [2643-row-with-maximum-ones](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/2643-row-with-maximum-ones) |
 ## Greedy
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/0724-find-pivot-index) |
+| [1314-matrix-block-sum](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/1314-matrix-block-sum) |
 | [1991-find-the-middle-index-in-array](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/1991-find-the-middle-index-in-array) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/kartik-alpha/https-leetcode.com-u-kartik_alpha-/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sorting
